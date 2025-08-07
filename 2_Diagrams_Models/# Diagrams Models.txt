@@ -1,0 +1,2 @@
+# Diagrams Models
+This folder contains all project documents: Use Case, ERD, Process Models and etc.

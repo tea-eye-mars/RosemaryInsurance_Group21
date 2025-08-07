@@ -1,0 +1,2 @@
+# Backups
+This folder contains all the project backups are located

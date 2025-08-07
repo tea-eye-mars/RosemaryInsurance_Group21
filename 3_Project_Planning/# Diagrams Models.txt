@@ -1,0 +1,2 @@
+# Project Planning
+This folder contains all project documents: Gantt Chart and Task Assignments

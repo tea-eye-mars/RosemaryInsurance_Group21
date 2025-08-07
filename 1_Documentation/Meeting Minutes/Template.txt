@@ -1,0 +1,19 @@
+Date: 2025-07-05
+Time: 15:00 - 16:00
+Location: Online (Google Meet)
+Attendees: Thandi, James, Sipho, Lerato, Nomsa, David
+
+Agenda:
+1. Review progress on ERD
+2. Discuss login form design
+3. Assign testing tasks
+
+Decisions:
+- Finalized ERD v1.0
+- Agreed on SHA256 for password hashing
+- Next meeting: 2025-07-12
+
+Action Items:
+- Thandi: Upload ERD to GitHub by Mon
+- James: Start login form in VS 2022
+- Lerato: Begin test cases for policy module
